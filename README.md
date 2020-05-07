@@ -19,15 +19,15 @@ Download from this.
 
 Add this to your ```server.cfg:```
 
-```start esx_acdnjob```
-```start esx_ballasjob```
-```start esx_bikerjob```
-```start esx_bloodjob```
-```start esx_carteljob```
-```start esx_familliesjob```
-```start esx_mafiajob```
-```start esx_ms13job```
-```start esx_vagosjob```
+__```start esx_acdnjob```__
+__```start esx_ballasjob```__
+__```start esx_bikerjob```__
+__```start esx_bloodjob```__
+__```start esx_carteljob```__
+__```start esx_familliesjob```__
+__```start esx_mafiajob```__
+__```start esx_ms13job```__
+__```start esx_vagosjob```__
 
 
 Send by @Doublox
