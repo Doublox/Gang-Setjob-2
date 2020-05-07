@@ -1,6 +1,6 @@
 # ► What is this ?
 
-this is a Big pack of Gang Job in /setjob2 for FiveM
+This is a Big pack of Gang Job in /setjob2 for FiveM
 
 # ► Gang-Setjob-2
 
